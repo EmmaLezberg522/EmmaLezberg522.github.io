@@ -1,8 +1,8 @@
 {
-  "hash": "ac2b7363b2dc4640ff87b1698d8fc053",
+  "hash": "e12d74fe25a6940e65baad63331fcf56",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Emma M. Lezberg\"\nsubtitle: \"Harvard University\"\nimage: /files/img/emma.jpg\nabout:\n  template: trestles\n---\n\n\n\n\nHello! I'm a Ph.D. student at Harvard University. I do research about...\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\nthis is a test ",
+    "markdown": "---\ntitle: \"Emma M. Lezberg\"\nsubtitle: \"Harvard University\"\nimage: /files/img/emma.jpg\nabout:\n  template: trestles\n---\n\n\n\n\nHello! I'm a Ph.D. student at Harvard University. I do research about immigration!\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\nthis is a test ",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

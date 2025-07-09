@@ -14,6 +14,7 @@ website:
         href: index.qmd 
       - about.qmd
       - research.qmd
+      - professional_development.qmd
 
 format:
   html:
@@ -22,6 +23,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-editor: visual
-
